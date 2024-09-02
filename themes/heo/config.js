@@ -27,7 +27,7 @@ const CONFIG = {
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: 'Blog精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '原创教学', url: '/tag/吉他教学' },
+  HEO_HERO_CATEGORY_2: { title: '原创教学', url: '/tag/教学' },
   HEO_HERO_CATEGORY_3: { title: '博主日常', url: '/tag/日常' }, 
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
