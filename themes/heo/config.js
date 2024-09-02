@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'www.mskyer.com' },
+    { title: '欢迎来到我的博客，有干货的吉他博主', url: 'www.mskyer.com' },
     { title: '平凡吉他（初级篇）正在录制更新中', url: 'https://www.bilibili.com/video/BV1MVsseBEwy/?spm_id_from=333.999.0.0' }
   ],
 
