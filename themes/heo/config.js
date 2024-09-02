@@ -50,8 +50,8 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: '',
   HEO_INFO_CARD_URL2: '',
   HEO_INFO_CARD_ICON2: '',
-  HEO_INFO_CARD_URL3: '/baout',
-  HEO_INFO_CARD_TEXT3: '了解博主',
+  HEO_INFO_CARD_URL3: '',
+  HEO_INFO_CARD_TEXT3: '',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
