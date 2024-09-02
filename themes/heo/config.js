@@ -103,7 +103,7 @@ const CONFIG = {
       img_2: '/images/heo/12.webp',
       color_2: '#e9572b'
     },
-
+  ],
 
   HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '',
